@@ -2,7 +2,7 @@
 
 ### Day 1: February 1, 2022
 
-**Today's Progress**: Practiced DP questions at codeforces.com/ 
+**Today's Progress**: Practiced DP questions https://codeforces.com/problemset?order=BY_RATING_ASC&tags=dp
 
 **Thoughts:** Easy start, did around 12 questions in 180 minutes. Will work on my speed this week.
 
