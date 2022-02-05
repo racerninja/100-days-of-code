@@ -17,3 +17,15 @@
 **Today's Progress**: Again DP, solved first 10 standard questions on CSES https://cses.fi/problemset/list/ left 9 for tomorrow
 
 **Thoughts**: Significantly improved my accuracy this week, speed is in progress. Will end the day with revising my old selenium projects for web automation 
+
+### Day 4: February 4, 2022
+
+**Today's Progress**: Practiced mixed questions including DP, got stuck on an easy problem for 30 mins. Thanks to guke https://codeforces.com/profile/guke
+
+**Thoughts**: Couldn't complete CSES sheet, will do it by tomorrow for sure + fuck selenium, rather using tweepy for twitter bot. 
+
+### Day 5: February 5, 2022
+
+**Today's Progress**: Almost completed RandomPatternNFT project. Practiced 3 star numpy questions from https://github.com/rougier/numpy-100
+
+**Thoughts**: No thots today, just wanna smoke a joint
