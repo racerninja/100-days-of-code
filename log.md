@@ -29,3 +29,10 @@
 **Today's Progress**: Almost completed RandomPatternNFT project. Practiced 3 star numpy questions from https://github.com/rougier/numpy-100
 
 **Thoughts**: No thots today, just wanna smoke a joint
+
+### Day 6: February 6, 2022
+
+**Today's Progress**: Tried tweepy. Practiced random questions + contest https://codeforces.com/contest/1634
+
+**Thoughts**: Wanna touch grass fr
+
