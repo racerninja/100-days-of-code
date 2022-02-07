@@ -36,3 +36,8 @@
 
 **Thoughts**: Wanna touch grass fr
 
+### Day 7: February 7, 2022
+
+**Today's Progress**: Practiced random questions. Tweeting this with tweepy at 11:59 pm.
+
+**Thoughts**: Will spam tweets tomorrow, I love tweepy 
