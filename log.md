@@ -41,3 +41,9 @@
 **Today's Progress**: Practiced random questions. Tweeting this with tweepy at 11:59 pm.
 
 **Thoughts**: Will spam tweets tomorrow, I love tweepy 
+
+### Day 8: February 8, 2022
+
+**Today's Progress**: 12 DP easy + 8 medium from https://leetcode.com/tag/dynamic-programming/
+
+**Thoughts**: Very productive day + Learnt A* search and intro to combinatorial search
