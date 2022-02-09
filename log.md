@@ -50,6 +50,6 @@
 
 ### Day 9: February 9, 2022
 
-**Today's Progress**: Started working on tkinter application project with spotify API. Solved binary search leetcode questions https://leetcode.com/tag/binary-search/
+**Today's Progress**: Solved binary search leetcode questions https://leetcode.com/tag/binary-search/
 
 **Thoughts**: Almost forgot to code till 10 pm. No thots only anxiety
