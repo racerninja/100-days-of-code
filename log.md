@@ -47,3 +47,9 @@
 **Today's Progress**: 12 DP easy + 8 medium from https://leetcode.com/tag/dynamic-programming/
 
 **Thoughts**: Very productive day + Learnt A* search and intro to combinatorial search
+
+### Day 9: February 9, 2022
+
+**Today's Progress**: Started working on tkinter application project with spotify API. Solved binary search leetcode questions https://leetcode.com/tag/binary-search/
+
+**Thoughts**: Almost forgot to code till 10 pm. No thots only anxiety
