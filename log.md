@@ -53,3 +53,10 @@
 **Today's Progress**: Solved binary search leetcode questions https://leetcode.com/tag/binary-search/
 
 **Thoughts**: Almost forgot to code till 10 pm. No thots only anxiety
+
+### Day 10: February 10, 2022
+
+**Today's Progress**: Again binary search https://leetcode.com/tag/binary-search/
+
+**Thoughts**: Will do some mini project tomorrow.
+
