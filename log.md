@@ -60,3 +60,8 @@
 
 **Thoughts**: Will do some mini project tomorrow.
 
+### Day 11: February 11, 2022
+
+**Today's Progress**: Started automating Chrome Trex game https://youtu.be/PXz2nFNuNJU
+
+**Thoughts**: Getting harder to maintain the streak
