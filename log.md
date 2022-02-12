@@ -65,3 +65,9 @@
 **Today's Progress**: Started automating Chrome Trex game https://youtu.be/PXz2nFNuNJU
 
 **Thoughts**: Getting harder to maintain the streak
+
+### Day 12: February 12, 2022
+
+**Today's Progress**: Completed that Chrome game project https://youtu.be/PXz2nFNuNJU
+
+**Thoughts**: Started with no expectations but this project was so much fun ngl
