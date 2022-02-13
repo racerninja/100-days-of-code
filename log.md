@@ -71,3 +71,10 @@
 **Today's Progress**: Completed that Chrome game project https://youtu.be/PXz2nFNuNJU
 
 **Thoughts**: Started with no expectations but this project was so much fun ngl
+
+### Day 13: February 13, 2022
+
+**Today's Progress**: Started beautiful soup project for stock analysis
+
+**Thoughts**: Good day 8/10 
+
