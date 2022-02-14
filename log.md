@@ -78,3 +78,9 @@
 
 **Thoughts**: Good day 8/10 
 
+### Day 14: February 14, 2022
+
+**Today's Progress**: Made real-time stock price scraper with bs4 and matplotlib
+
+**Thoughts**: Bad day 3/10
+
