@@ -84,3 +84,8 @@
 
 **Thoughts**: Bad day 3/10
 
+### Day 15: February 15, 2022
+
+**Today's Progress**: Back to cf https://codeforces.com/problemset?order=BY_RATING_ASC&tags=dfs+and+similar
+
+**Thoughts**: Will start with django this week tho I hate web dev
