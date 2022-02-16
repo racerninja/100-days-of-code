@@ -89,3 +89,9 @@
 **Today's Progress**: Back to cf https://codeforces.com/problemset?order=BY_RATING_ASC&tags=dfs+and+similar
 
 **Thoughts**: Will start with django this week tho I hate web dev
+
+### Day 16: February 16, 2022
+
+**Today's Progress**: Started with django and I already hate it https://youtu.be/sm1mokevMWk
+
+**Thoughts**: Average Day 6/10
