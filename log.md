@@ -95,3 +95,15 @@
 **Today's Progress**: Started with django and I already hate it https://youtu.be/sm1mokevMWk
 
 **Thoughts**: Average Day 6/10
+
+### Day 17: February 17, 2022
+
+**Today's Progress**: Made django form application
+
+**Thoughts**: Tough day, django is pain in ass
+
+### Day 18: February 18, 2022
+
+**Today's Progress**: Back to codeforces, did some DP questions
+
+**Thoughts**: No thots
