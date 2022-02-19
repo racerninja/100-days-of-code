@@ -107,3 +107,9 @@
 **Today's Progress**: Back to codeforces, did some DP questions
 
 **Thoughts**: No thots
+
+### Day 19: February 19, 2022
+
+**Today's Progress**: Practiced DFS and random questions
+
+**Thoughts**: Good day 8/10 
