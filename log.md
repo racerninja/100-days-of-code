@@ -114,7 +114,7 @@
 
 **Thoughts**: Good day 8/10 
 
-### Day 19: February 19, 2022
+### Day 20: February 20, 2022
 
 **Today's Progress**: Contest day + random questions
 
