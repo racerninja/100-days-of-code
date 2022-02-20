@@ -113,3 +113,9 @@
 **Today's Progress**: Practiced DFS and random questions
 
 **Thoughts**: Good day 8/10 
+
+### Day 19: February 19, 2022
+
+**Today's Progress**: Contest day + random questions
+
+**Thoughts**: Wasted Sunday, omw to waste upcoming week too
