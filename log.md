@@ -119,3 +119,21 @@
 **Today's Progress**: Contest day + random questions
 
 **Thoughts**: Wasted Sunday, omw to waste upcoming week too
+
+### Day 21: February 21, 2022
+
+**Today's Progress**: Started pong game https://youtu.be/vVGTZlnnX3U
+
+**Thoughts**: Easy shit, productive day
+
+### Day 22: February 22, 2022
+
+**Today's Progress**: Word count problem in Hadoop streaming + OS programming
+
+**Thoughts**: College be killing my time
+
+### Day 23: February 23, 2022
+
+**Today's Progress**: Contest day. Did 2/5 on codeforces, 6/8 on codechef
+
+**Thoughts**: Took an off from college, most productive day of month ig
