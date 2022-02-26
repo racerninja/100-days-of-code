@@ -137,3 +137,21 @@
 **Today's Progress**: Contest day. Did 2/5 on codeforces, 6/8 on codechef
 
 **Thoughts**: Took an off from college, most productive day of month ig
+
+### Day 24: February 24, 2022
+
+**Today's Progress**: Completed Pong with pygame, fixed some bugs. Will automate 1st player soon
+
+**Thoughts**: Pycharm >>>
+
+### Day 25: February 25, 2022
+
+**Today's Progress**: Practiced leetcode ~ 2 hours
+
+**Thoughts**: Busy day, early morning code hours
+
+### Day 26: February 26, 2022
+
+**Today's Progress**: Practiced leetcode DFS
+
+**Thoughts**: Gotta study OS for mids
